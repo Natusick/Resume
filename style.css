@@ -141,6 +141,7 @@ body {
   
   .photo {
     width: 370px;
+    border-radius: 50%;
   }
   
   .photo,
